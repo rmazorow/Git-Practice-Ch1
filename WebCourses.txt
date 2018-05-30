@@ -1,0 +1,11 @@
+SWATC 1000 - Student Success
+CSCI 1160 - Computer Science Fundamentals
+BTEC 2820 - Intro to Design Principles
+SWDM 1012 - Introduction to Media Design
+WKSK 1405 - Work Place Relations
+WKSK 1500 - Job Seeking Skills
+SWDM 1028 - e-Portfolio
+CSCI 1100 - Version Control Management
+ITEC 2915 - HTML and CSS
+ITEC 2122 - SEO Basics
+ITEC 2838 - JavaScript
