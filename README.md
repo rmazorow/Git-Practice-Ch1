@@ -32,7 +32,7 @@ CSCI 1110 - Object Oriented Programming
 CSCI 1115 - Algorithms & Data Structures
 ITEC 2905 - Capstone Project
 ```
-3.Run the "git status" command.
+3. Run the "git status" command.
 4. Erase EmptyFile.txt.
 5. Run the "git status" command.
 6. Use the "git add" command to stage the changes made to SoftwareCourses.txt.
