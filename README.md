@@ -1,9 +1,9 @@
 # Git-Test-Project
-This repository is used to teach students command line git with the following exercises:
+This repository is used to teach students command line git with the following exercises (page references for book <i>Learn Version Control with Git</i> by Tobias Günther:
 
 ### Exercise 1-2
 1. Create a folder called GitTestProject and navigate to the folder in Terminal.app.
-2. Run the "git clone" command on p 28 to copy the repository at to your https://github.com/CS-STech/Git-Test-Project GitTestProject folder.
+2. Run the "git clone" command on p 28 to copy the repository at to your https://github.com/CS-STech/Git-Practice-Ch1 GitTestProject folder.
 3. Navigate into the new folder created.
 4.Run "git config --global color.ui auto" so your changes will be displayed in color.
 5. Open WebCourses.txt in a text editor and add the following lines at the end:
