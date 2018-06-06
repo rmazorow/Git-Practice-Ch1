@@ -2,8 +2,8 @@
 This repository is used to teach students command line git with the following exercises (page references for book <i>Learn Version Control with Git</i> by Tobias Günther):
 
 ### Exercise 1-2
-1. Create a folder called GitTestProject and navigate to the folder in Terminal.app.
-2. Run the "git clone" command on p 28 to copy the repository at to your https://github.com/CS-STech/Git-Practice-Ch1 GitTestProject folder.
+1. Create a folder called Git_Ch1 and navigate to the folder in Terminal.app.
+2. Run the "git clone" command on p 28 to copy the repository at https://github.com/CS-STech/Git-Practice-Ch1 to your Git_Ch1 folder.
 3. Navigate into the new folder created.
 4.Run "git config --global color.ui auto" so your changes will be displayed in color.
 5. Open WebCourses.txt in a text editor and add the following lines at the end:
@@ -18,7 +18,7 @@ CSCI 1155 - Introduction to Cloud Services
 10. Run the "git log" command.
 
 ### Exercise 1-3
-1. Navigate to the Git-Test-Project folder in Terminal.app.
+1. Navigate to the Git_Ch1 folder in Terminal.app.
 2. Create a new file SoftwareCourses.txt in a text editor and add the following lines:
 ```
 SWATC 1000 - Student Success
