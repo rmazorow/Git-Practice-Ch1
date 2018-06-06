@@ -1,5 +1,5 @@
 # Git-Practice-Ch1
-This repository is used to teach students command line git with the following exercises (page references for book <i>Learn Version Control with Git</i> by Tobias Günther:
+This repository is used to teach students command line git with the following exercises (page references for book <i>Learn Version Control with Git</i> by Tobias Günther):
 
 ### Exercise 1-2
 1. Create a folder called GitTestProject and navigate to the folder in Terminal.app.
